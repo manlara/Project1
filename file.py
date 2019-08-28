@@ -3,3 +3,6 @@ def func(a):
 
 def func2():
     pass
+
+def func3():
+    pass
