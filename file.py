@@ -1,3 +1,5 @@
-def func():
-    pass
+def func(a):
+    return a
 
+def func2():
+    pass
